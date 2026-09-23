@@ -1,5 +1,8 @@
 # Aula-1---Sistem.Distri
 
+Este repositório tem como objetivo documentar as atividades práticas e reflexões propostas na disciplina de Sistemas Distribuídos, servindo como registro de aprendizado e evidência das práticas realizadas em laboratório.
+Sinta-se à vontade para explorar os arquivos e acompanhar a evolução dos conceitos ao longo do semestre.
+
 O que foi proposto em aula
 A aula introdutória teve como foco apresentar os conceitos básicos de Sistemas Distribuídos, partindo de exemplos do dia a dia (WhatsApp, Instagram, Netflix, Spotify, Uber, iFood, Internet Banking, Google Drive, etc.) para mostrar que já interagimos com sistemas distribuídos o tempo todo, muitas vezes sem perceber.
 
